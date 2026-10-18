@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "anndata",
+  "versions": [
+    {
+      "commit": "e90df01da4a7676f5624edb2f63a8fbf089d339b",
+      "tag": "",
+      "parsed_at": "2026-10-18T14:32:34.679469+00:00"
+    }
+  ]
+}
